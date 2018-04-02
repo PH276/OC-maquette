@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Scriptina";
-    src: url('SCRIPTIN.ttf');
+    src: url('../fonts/SCRIPTIN.ttf');
 }
 
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
@@ -84,12 +84,6 @@ h1 {
 }
 
 #dashed_line {
-    border-width: 2px 0 0;
-    border-color: rgb( 255, 255, 255 );
-    border-style: dashed;
-    box-shadow: 0.5px 0.866px 0px 0px rgb( 61, 48, 41 );
-    width: 186px;
-    margin: 25px auto;
 }
 
 #We_re_bringing_you_fresh_ingredients_every_day {
@@ -223,7 +217,7 @@ main.container-fluid{
 /* ---------------------------------------- */
 #section2{
     height: 46vw;
-    background-image: url('section2.jpg');
+    background-image: url('../img/section2.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 120px 0;
@@ -233,10 +227,6 @@ main.container-fluid{
     width: 100%;
 }
 
-/* #section2 .row{
-    overflow: auto;
-}
- */
 #s2c{
     background-color: white;
 }
@@ -306,15 +296,13 @@ main.container-fluid{
     top: -40px;
     right: -80px;
     padding:20px;
-    border:1px solid;
     text-align: center;
-
+    box-shadow: 1px 16px 180px #555;
 }
 
 #ready p{
     margin: 0;
 }
-
 
 #ready p:first-of-type{
     font-size: 1em;
@@ -339,7 +327,7 @@ main.container-fluid{
 #section3{
     padding-top: 20px;
     height:48vw;
-    background-image: url('section3.jpg');
+    background-image: url('../img/section3.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%;

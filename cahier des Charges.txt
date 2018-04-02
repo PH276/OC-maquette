@@ -1,0 +1,5 @@
+Gustoso est une boulangerie � Paris qui veut faire ressortir ses services de p�tisesrie et de d�je�ner.
+Le responsable a pour projet de mettre son enseigneen ligne par un site internet pour pr�senter ses services � ses clients.
+
+Pour commenncer, il a fait appel � un graphiste qui a apoporter cette maquette :
+https://dribbble.com/shots/2847987-The-Bakery-Website.
